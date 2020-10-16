@@ -1,1 +1,1 @@
-ftydetr
+fty
